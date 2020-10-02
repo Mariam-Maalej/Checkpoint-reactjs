@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  background-image: url(./background-light.png);
+}
+
+.titre h1{
+  padding-top: 80px;
+  padding-bottom: 30px;
+  color: rgb(45, 78, 88);
+}
